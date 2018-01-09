@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_feedback"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context="com.example.farisauzan.curiculumvitae.FeedbackActivity">
+
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="38dp"
+        android:id="@+id/textView32"
+        android:layout_alignBottom="@+id/sentTo"
+        android:layout_centerHorizontal="true" />
+
+    <Button
+        android:text="Sent"
+        android:textColor="#fff"
+        android:background="@color/colorPrimaryDark"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="22dp"
+        android:id="@+id/sentEmail"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true" />
+
+    <EditText
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:inputType="textPersonName"
+        android:ems="10"
+        android:hint="Subject Of Mail"
+        android:id="@+id/subject"
+        android:layout_marginBottom="14dp"
+        android:layout_above="@+id/EmailText"
+        android:layout_alignStart="@+id/sentTo" />
+
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        app:srcCompat="@drawable/feedback"
+        android:id="@+id/imageView2"
+        android:layout_marginBottom="10dp"
+        android:layout_above="@+id/textView32" />
+
+    <EditText
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:inputType="textEmailAddress"
+        android:ems="10"
+        android:hint="Email id"
+        android:id="@+id/sentTo"
+        android:layout_above="@+id/subject"
+        android:layout_alignEnd="@+id/sentEmail" />
+
+    <EditText
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:inputType="textMultiLine"
+        android:ems="10"
+        android:id="@+id/EmailText"
+        android:hint="Write your message"
+        android:layout_marginBottom="26dp"
+        android:layout_above="@+id/sentEmail"
+        android:layout_alignStart="@+id/subject" />
+</RelativeLayout>

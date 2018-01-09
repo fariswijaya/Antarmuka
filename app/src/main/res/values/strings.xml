@@ -1,0 +1,382 @@
+<resources>
+    <string name="app_name">KampusKu</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_berita">Berita</string>
+    <string name="visi.txt">
+STMIK AKAKOM mempunyai visi untuk menjadi perguruan tinggi unggulan dalam bidang teknologi informasi yang bertumpu pada nilai-nilai dan etika kehidupan yang baik, benar dan universal untuk mewujudkan peningkatan taraf hidup bangsa.
+    </string>
+    <string name="misi.txt">
+Adapun misi STMIK AKAKOM adalah melaksanakan Tridharma Perguruan Tinggi dalam bidang komputer dan teknologi informasi yang berorientasi kepada perkembangan ilmu pengetahuan, teknologi dan seni.
+    </string>
+    <string name="tujuan.txt">
+Tujuan yang ingin dicapai STMIK AKAKOM adalah
+    </string>
+    <string name="tujuan1.txt">
+1. Terselenggaranya sistem pendidikan yang tanggap terhadap perkembangan ilmu dan teknologi informasi dengan memadukan keunggulan akademik dan mutu profesi.
+    </string>
+    <string name="tujuan2.txt">
+2. Terselenggaranya penelitian untuk menghasilkan temuan baru, rekayasa, dan kajian yang berguna bagi pemberdayaan teknologi informasi dan hidup bermasyarakat.
+    </string>
+    <string name="tujuan3.txt">
+3. Pemasyarakatan teknologi informasi sebagai prasarana kehidupan modern bangsa Indonesia.
+    </string>
+    <string name="tujuan4.txt">
+4. Terbentuknya sumberdaya manusia yang memiliki kompetensi akademis dan atau profesional, yang beriman, bertakwa, mandiri, kreatif, dan berkemampuan meningkatkan kualitasnya secara berkelanjutan.
+    </string>
+    <string name="tujuan5.txt">
+5. Terwujudnya masyarakat modern yang berperan aktif dalam pembangunan nasional serta dalam membentuk masyarakat yang maju, adil dan sejahtera.
+    </string>
+    <string name="sasaran.txt">
+Untuk mencapai 5 tujuan tersebut, perlu ditetapkan sasaran-sasaran yang dapat diukur ketercapaiannya. Sasaran yang dikelompokkan dalam 6 kategori:
+    </string>
+    <string name="sasaran1.txt">
+1. Sasaran untuk mencapai kualitas Tridharma yang unggul.
+    </string>
+    <string name="sasaran2.txt">
+2. Sasaran untuk mencapai tujuan terselenggaranya sistem pendidikan yang tanggap  terhadap perkembangan ilmu dan teknologi informasi dengan memadukan keunggulan akademik dan mutu profesi.
+    </string>
+    <string name="sasaran3.txt">
+3. Sasaran untuk mencapai tujuan terselenggaranya penelitian untuk menghasilkan temuan baru, rekayasa, dan kajian yang berguna bagi pemberdayaan teknologi informasi dan hidup bermasyarakat.
+    </string>
+    <string name="sasaran4.txt">
+4. Sasaran untuk mencapai tujuan pemasyarakatan teknologi informasi sebagai prasarana kehidupan modern bangsa Indonesia.
+    </string>
+    <string name="sasaran5.txt">
+5. Sasaran untuk mencapai tujuan terbentuknya sumberdaya manusia yang memiliki kompetensi akademis dan atau profesional, yang beriman, bertakwa, mandiri, kreatif, dan berkemampuan meningkatkan kualitasnya secara berkelanjutan.
+    </string>
+    <string name="sasaran6.txt">
+6. Sasaran untuk mencapai tujuan terwujudnya masyarakat modern yang berperan aktif dalam pembangunan nasional serta dalam membentuk masyarakat yang maju, adil dan sejahtera.
+    </string>
+
+    <string name="description.txt">
+Dalam situasi perekonomian saat ini, pemerintah Indonesia memerlukan upaya-upaya baru untuk mengembalikan kehidupan perekonomian yang lebih baik. Salah satu bentuk upaya yang sedang dilakukan adalah sedikit menggeser prioritas perekonomian nasional dari bentuk resource-base economy ke bentuk knowledge-base economy. Dengan pola pergeseran ini, peran IPTEK menjadi sangat penting untuk mendukung visi Pembangunan Jangka Panjang (RPJP) tahun 2005-2025 yaitu “Indonesia Yang Maju, Mandiri, dan Adil”. Sejalan dengan hal tersebut, banyak organisasi yang telah berkembang ke bentuk dynamic network. Dalam dynamic network organization, peranan Teknologi Informasi menjadi sangat penting.
+
+Bidang teknologi informasi, telah merambah secara luas dalam berbagai bidang kehidupan seperti manajemen, teknik, kedokteran, psikologi, pendidikan hingga seni. Dari kombinasi tersebut telah dihasilkan produk-produk seperti otomatisasi sistem, desain produk, pembuatan musik, aplikasi mobile, yang semuanya telah memberikan kontribusi yang besar bagi kehidupan manusia.
+
+Berdasarkan paparan diatas, diisyaratkan makin  dibutuhkannya sumber daya manusia bidang teknologi informasi. Selain itu juga menandai bahwa bidang teknologi informasi akan terus berkembang sesuai dengan perkembangan ilmu pengetahuan dan teknologi pada umumnya.
+
+Program Studi Teknik Informatika (PSTI) merupakan salah satu cabang dari pohon ilmu Informatika dan Komputer, yang turut mengembangkan bidang ilmu teknologi informasi. Adapun penekanannya pada aspek penyimpanan, pengolahan, dan penyampaian informasi secara algoritmik dengan bantuan komputer. Tiga (3) paradigma yang digunakan adalah: paradigma teori, paradigma abstraksi, dan paradigma perancangan. Ketiga paradigma ini saling melengkapi dan kait-mengait antara satu dengan yang lain. Secara umum ketiga paradigma tersebut (teori, abstraksi, perancangan) merupakan prinsip dasar dari masing-masing bidang ilmu yang diwakili matematika, ilmu alam, teknik).
+    </string>
+    <string name="description2.txt">
+        Program Studi Teknik Informatika mulai diselenggarakan berdasarkan SK No. 300/DIKTI/Kep/1992. Saat ini Program Studi Teknik Informatika telah diakreditasi ‘B’ berdasarkan SK No. 028/BAN-PT/Ak-IX/S1/I/2006.
+
+Minat untuk mengikuti pendidikan pada Program Studi Teknik Informatika sangat besar dan meningkat dari tahun ke tahun dan berasal dari semua propinsi di Indonesia. Hal ini dikarenakan kebutuhan alumni Program Studi Teknik Informatika   cukup tinggi karena hampir semua aspek membutuhkan teknologi informasi untuk berkembang.  Selain itu juga mengisyaratkan bahwa Program Studi Teknik Informatika  sudah dikenal dalam taraf nasional.
+
+Jumlah alumni Program Studi Teknik Informatika  hingga saat ini mencapai sekitar 1000 mahasiswa, yang telah bekerja pada perbankan, perminyakan, pendidikan, kesehatan, dan bidang-bidang lain. Banyak mahasiswa yang telah bekerja sebelum lulus dari pendidikannya. Hal ini membuktikan bahwa ilmu yang diterima mahasiwa bisa digunakan kapan saja. Beberapa lapangan kerja alumni diantaranya Krakatau Steel, BRI, Pertamina, TOTAL, (SGM), Instansi Negeri (Kejaksaaan, Pemda, PTN), dan Perguruan Tinggi Swasta.
+
+Kegiatan-kegiatan yang dilaksanakan oleh Program Studi Teknik Informatika  sangat beragam. Kegiatan tersebut dalam bentuk penelitian bersama dosen dan mahasiswa, partisipan / penyelenggara even  nasional maupun internasional  (seminar, workshop, kuliah umum), pelatihan teknologi informasi ke instansi/organisasi.
+</string>
+<string name="description3.txt">
+Dalam penyusunan Visi, Misi dan tujuan, Program Studi Teknik Informatika berpedoman kepada visi dan misi dari Institusi. Program studi mengadakan rapat pembahasan untuk menghasilkan draft visi, misi dan tujuan program studi berdasarkan visi, misi dan tujuan institusi.
+    </string>
+<string name="description4.txt">
+- Hasil rapat disosialisasikan dalam bentuk edaran  ke seluruh civitas akademika, untuk mendapatkan masukan terhadap visi, misi dan tujuan program studi.</string>
+    <string name="description5.txt">
+- Hasil dari masukan terhadap draft visi, misi dan tujuan dibahas kembali dalam rapat pleno untuk memutuskan visi, misi dan tujuan final program studi.
+    </string>
+        <string name="description6.txt">
+- Sosialisasi hasil akhir visi, misi dan tujuan program studi dalam bentuk   website program studi, dosen jurusan dan alumni, serta pertemuan dengan civitas akademika.
+</string>
+            <string name="description7.txt">
+Jurusan Teknik Informatika sebagai pembentukan dan pengembangan sumber daya manusia yang mempunyai wawasan ICT (Information and Communication Technology) yang tinggi dalam bidang Rekayasa Perangkat Lunak (Mobile, Games dan Jaringan) dan Sistem Cerdas/Komputasi
+            </string>
+                <string name="description8.txt">
+Mendidik Mahasiswa untuk siap produktif dan mampu mengembangan diri di dalam penguasaan ICT (Information and Communication Technology) khususnya pada bidang Rekayasa Perangkat Lunak (Mobile, Games dan Jaringan) maupun bidang Sistem Cerdas/Komputasi, serta menerapakan dalam kehidupan bermasyarakat
+                </string>
+    <string name="description9.txt">
+Menghasilkan lulusan yang siap bekerja / produktif dalam dunia kerja baik secara tim maupun individu dalam penguasaan ICT (Information and Communication Technology) khususnya pada bidang Rekayasa Perangkat Lunak (Mobile, Games dan Jaringan)) maupun bidang Sistem Cerdas/Komputasi dan dapat bekerjasama dalam tingkat lokal, nasional, regional maupun internasional
+    </string>
+    <string name="description10.txt">
+[1] Mampu mengimplementasikan teknologi informasi secara kreatif dan inovatif di masyarakat
+    </string>
+    <string name="description11.txt">
+[2] Mampu mengembangkan diri untuk peningkatan wawasan dan keahlian
+    </string>
+    <string name="description12.txt">
+[3] Mampu beradaptasi dan bekerjasama dalam team work
+    </string>
+    <string name="description13.txt">
+[4] Mampu  berkomunikasi aktif dalam bahasa internasional
+    </string>
+    <string name="description14.txt">
+[5] Mampu menjunjung tinggi etika dan profesionalisme
+    </string>
+    <string name="description15.txt">
+Mampu menganalisis, merancang, dan membangun perangkat lunak berbasis sistem Cerdas, Mobile, Games, Jaringan menggunakan teknik dan tools, beserta pendokumentasiannya
+    </string>
+
+        <string name="description16.txt">
+[1] Kompetensi tahun 1
+    </string>
+    <string name="description17.txt">
+“Menguasai dasar pemrograman, Logika pemrograman dan berpikir analitis”
+    </string>
+    <string name="description18.txt">
+[2] Kompetensi tahun 2
+    </string>
+    <string name="description19.txt">
+“Memahami Metode Pengembangan Perangkat Lunak”
+    </string>
+    <string name="description20.txt">
+[3] Kompetensi tahun 3
+    </string>
+    <string name="description21.txt">
+“Mampu Merancang Sistem Perangkat Lunak Sederhana”
+    </string>
+    <string name="description22.txt">
+[4] Kompetensi tahun 4
+    </string>
+    <string name="description23.txt">
+“Mampu Mengimplementasikan Perangkat Lunak” (Cerdas, Mobile, Games dan Jaringan)
+    </string>
+
+    <string name="si.txt">
+        Dewasa ini, orang disibukkan dengan banyaknya teknologi baru yang muncul di sekitarnya. Kadang, bahkan kita tidak tahu apa sebenarnya yang benar-benar kita perlukan. Orang berlomba-lomba membeli peralatan teknologi semisal handphone tercanggih, laptop terbaru dan yang lainnya. Sedangkan perusahaan berlomba-lomba membeli peralatan kantor yang dianggap serba terbaru, tercanggih, terdepan. Dalam hal ini, orang menjadi lupa dengan manfaat sesungguhnya dari peralatan-peralatan tersebut. Untuk itu, kini teknologi informasi menjadi sangat penting. Orang, perusahaan berusaha untuk secepatnya memperoleh informasi. Di era informasi yang begitu cepat tersebut, kita membutuhkan tools yang baik yang dapat digunakan untuk membantu mempercepat informasi sampai di tangan. Demikian juga dengan sarana komunikasi yang lainnya, dengan berkembangnya telpon genggam kita bisa berkomunikasi dengan relasi kita kapanpun dan dimanapun. Televisi juga tidak kalah penting, kita dapat melihat siaran televisi dari mancanegara dengan bantuan parabola. Dan kini internet sudah menjadi hal yang biasa di masyarakat kita, terutama masyarakat perkotaan. Warnet tumbuh bak jamur di musim hujan. Dengan adanya internet, kita bisa mengetahui informasi dari mana saja di seluruh dunia. Dengan demikian kita bisa mengembangkan diri, perusahaan kita berbekal informasi baik yang kita peroleh.
+        Untuk itu, teknologi informasi sangat penting. Kita bisa menentukan teknologi mana yang akan kita gunakan. Juga kita bisa memilah informasi berdasarkan kebutuhan. Teknologi informasi telah merambah secara luas dalam berbagai bidang kehidupan seperti manajemen, teknik, kedokteran, psikologi, pendidikan hingga seni. Untuk itu, kebutuhan akan pakar bidang teknologi informasi dipastikan semakin meningkat setiap tahunnya. Apalagi ilmu dalam bidang ini sangat dinamis, hampir setiap hari dihasilkan teknologi baru.
+        Program Studi Sistem Informasi merupakan salah satu cabang dari pohon ilmu Informatika dan Komputer. Program ini dikhususkan untuk menggarap sistem informasi dari berbagai sisi. Hal ini meliputi bagaimana data dapat disimpan dengan baik, bagaimana  informasi dapat diperoleh dengan baik, dan bagaimana supaya informasi yang dihasilkan dapat memberikan manfaat bagi yang menggunakannya, baik perusahaan, maupun perorangan.
+   </string>
+    <string name="si1.txt">
+        Program Studi Sistem Informasi merupakan salah satu program studi yang diselenggarakan oleh STMIK AKAKOM. Program Studi Sistem Informasi mulai diselenggarakan berdasarkan SK No. 300/Dikti/Kep/1992 saat itu dengan nama Manajemen Informatika. Dan saat ini telah terakreditasi ‘B’ berdasarkan SK No. 011/BAN-PT/Ak-X/S1/VIII/2006.
+        Pada tahun 2009  Program Studi ini telah menerapkan kurikulum berbasis kompetensi. Dalam kurikulum yang dirancang untuk 8 semester ini, program studi mengarahkan minat sistem informasi berorientasi bisnis dan akuntansi. Dengan demikian, diharapkan lulusan akan dapat menganalisis, merancang, mengimplementasikan sistem informasi yang bisa membantu keputusan bisnis ataupun akuntansinya. Dengan kurikulum yang dirancang seperti itu, maka peminat program studi ini, bisa berasal dari berbagai jurusan yang ada di SLTA.
+        Mahasiswa program studi ini, berasal dari berbagai daerah, yang menunjukkan bahwa program studi ini sudah dikenal di daerah mereka. Namun, tidak bisa dipungkiri bahwa program studi harus terus meningkatkan mutu agar selalu bisa bersaing.
+        </string>
+<string name="si2.txt">
+    [1] Mampu mengimplementasikan TI secara kreatif dan inovatif di masyarakat
+    </string>
+    <string name="si3.txt">
+[2] Mampu mengembangkan diri untuk peningkatan wawasan dan keahlian
+   </string>
+        <string name="si4.txt">
+[3] Mampu beradaptasi dan bekerjasama dalam team work
+        </string>
+            <string name="si5.txt">
+                [4] Mampu  berkomunikasi aktif dalam bahasa internasional
+            </string>
+    <string name="si6.txt">
+                [5] Mampu menjunjung tinggi etika dan profesionalisme
+            </string>
+                <string name="si7.txt">
+                    Mampu menganalisis, membangun dan mengembangkan  SI proses bisnis untuk operasional dan manajerial
+                </string>
+        <string name="si8.txt">
+[1] Kompetensi tahun 1
+    </string>
+    <string name="si9.txt">
+”Menguasai dasar pemograman dan logikanya, menguasai dasar sistem informasi”
+    </string>
+    <string name="si10.txt">
+[2] Kompetensi tahun 2
+    </string>
+    <string name="si11.txt">
+”Mampu membangun program sederhana, mengkoneksikan dengan database”
+    </string>
+    <string name="si12.txt">
+[3] Kompetensi tahun 3
+    </string>
+    <string name="si13.txt">
+“Mampu membangun sistem informasi”
+    </string>
+    <string name="si14.txt">
+[4] Kompetensi tahun 4
+    </string>
+    <string name="si15.txt">
+”Mampu mengaplikasikan sistem informasi di dunia nyata”
+    </string>
+
+
+     <string name="data.txt">
+     Dalam situasi perekonomian saat ini, pemerintah Indonesia memerlukan upaya-upaya baru untuk mengembalikan kehidupan perekonomian yang lebih baik.
+         Salah satu bentuk upaya yang sedang dilakukanadalah sedikit menggeser prioritas perekonomian nasional dari bentuk resource-base economy ke bentuk knowledge-base economy.
+     </string>
+       <string name="data1.txt">
+    1.2.1.  Kompetensi Umum
+     </string>
+     <string name="data2.txt">
+   [1]       Mampu mengimplementasikan teknologi informasi  secara kreatif dan inovatif di masyarakat
+     </string>
+    <string name="data3.txt">
+  [2]       Mampu mengembangkan diri untuk peningkatan wawasan dan keahlian
+     </string>
+
+  <string name="data4.txt">
+Untuk menyelesaikan pendidikan diploma pada program studi MI-D3, mahasiswa diwajibkan telah menyelesaikan sekurang-kurangnya 110 sks mata kuliah yang meliputi mata kuliah wajib sebanyak 80  sks  dan sisanya adalah mata kuliah pilihan.
+     </string>
+
+  <string name="data5.txt">
+    Lulusan dari jurusan/program studi Manajemen Informatika masih banyak dibutuhkan oleh stakeholder, hal ini dapat dilihat dari banyaknya permintaan lulusan D3 yang ditempatkan pada bagian programmer, teknisi dan software maintenance.  Masih banyaknya peluang lulusan D3 Manajemen Informatika untuk tenaga di bidang TI, memberikan kesempatan yang sangat terbuka agar jurusan dapat mengembangkan diri menjadi lebih adaptif terhadap kebutuhan pasar tenaga kerja bidang TI.
+
+Kemampuan yang lebih dari setiap lulusan akan memberikan daya saing yang baik untuk peluang di dunia kerja.
+     </string>
+
+     <string name="moro.txt">
+        Dilandasi kesadaran potensi pesatnya kemajuan teknologi elektronika, program studi Teknik Komputer jenjang D3 merupakan bagian Jurusan Teknik Komputer yang mengemban amanat melatih dan menghasilkan ahli madya yang berkecimpung dalam lingkup teknik elektronika, microprocessor, instrumentasi kendali, dan telekomunikasi. Peran ahli madya bidang ini antara lain untuk menjembatani level perancang dan pengguna teknologi, melakukan supervisi proses produksi, melakukan instalasi-instalasi systems dan
+         networking untuk berbagai keperluan mulai dari perkantoran, housing, hotels, medis, sarana navigasi, hingga entertainment support.
+     </string>
+    <string name="moro1.txt">
+       [1]       Mampu mengimplementasikan TI secara kreatif dan inovatif di masyarakat
+     </string>
+    <string name="moro2.txt">
+      [2]       Mampu mengembangkan diri untuk peningkatan wawasan dan keahlian
+     </string>
+    <string name="moro3.txt">
+      [3]       Mampu beradaptasi dan bekerjasama dalam team work
+     </string>
+     <string name="moro4.txt">
+        Untuk menyelesaikan pendidikan diploma 3 pada program studi Teknik Komputer, mahasiswa diwajibkan untuk mengumpulkan sekurang-kurangnya 110 sks mata kuliah yang
+         meliputi mata kuliah wajib sebanyak 80 sks, dan lainnya merupakan mata kuliah pilihan.
+     </string>
+     <string name="moro5.txt">
+       Mata Kuliah Wajib.   Mata kuliah wajib merupakan mata kuliah yang wajib diambil oleh semua mahasiswa. Mata kuliah wajib program studi terdiri atas 80 sks. Persyaratan mata kuliah wajib sebesar 80 sks ini dapat dipenuhi dengan mengambil semua mata kuliah wajib.
+         Semua mata kuliah wajib dan praktikum nilai minimum adalah C (nilai D berarti tidak lulus).
+     </string>
+     <string name="moro6.txt">
+       Pelaksanaan tugas akhir dibawah bimbingan dosen pembimbing tugas akhir yang sesuai dengan bidang permasalahan yang diambil.
+         Mahasiswa dapat memilih tugas akhir berupa rekayasa perangkat keras, kerja praktek, rekayasa piranti praktikum , dan jenis-jenis lain yang direkomendasikan  oleh program studi.
+
+
+     </string>
+     <string name="jadi.txt">
+     Dilandasi kesadaran potensi pesatnya kemajuan teknologi elektronika, program studi Teknik Komputer jenjang D3 merupakan bagian Jurusan Teknik Komputer yang mengemban amanat melatih dan menghasilkan ahli madya yang berkecimpung dalam lingkup teknik elektronika, microprocessor, instrumentasi kendali, dan telekomunikasi. Peran ahli madya bidang ini antara lain untuk menjembatani level perancang dan pengguna teknologi, melakukan supervisi proses produksi, melakukan instalasi-instalasi systems dan networking untuk berbagai keperluan mulai dari perkantoran,
+         housing, hotels, medis, sarana navigasi, hingga entertainment support.
+     </string>
+    <string name="kalender.txt">
+     Kalender akademik 2015/2016 sudah bisa di download di http://1drv.ms/1g3BtpX
+     </string>
+    <string name="blog.txt">
+    Silahkan berbagi pengetahuan kepada dunia. Mulailah menulis hari ini, Silahkan Sign Up atau mendaftar menggunakan account email aKakom anda ( namauser@student.akakom.ac.id atau namauser@akakom.ac.id ) di http://blog.akakom.ac.id/
+</string>
+    <string name="profil.txt">
+     Dalam abad ke-20 ini dunia banyak diwarnai dengan berbagai kemajuan secara menakjubkan yang telah diciptakan oleh umat manusia, baik dibidang ilmu maupun teknologi. Menanggapi kondisi zaman seperti tersebut di atas, pada tanggal 30 Juni 1979 didirikan sebuah yayasan dengan nama Yayasan Pendidikan Widya Bakti, yang bertujuan mengembangkan dan menyebarluaskan informatika dan teknologi komputer di kalangan masyarakat indonesia melalui usaha pendidikan yang sistematis dan ilmiah. Yayasan tersebut mengelola sebuah akademi yang bernama Akademi Aplikasi Komputer, disingkat AKAKOM.
+Terhitung mulai 1 Maret 1983, Akademi Aplikasi Komputer(AKAKOM), diubah menjadi Akademi Komputer dan Informatika AKAKOM. Selanjutnya terhitung mulai tanggal 2 Mei 1985, nama Akademi Komputer dan Informatika AKAKOM diubah dan dibakukan menjadi Akademi Manajemen Informatika dan Komputer(AMIK)AKAKOM.
+Agar lembaga tersebut mampu menghasilkan tenaga-tenaga profesional maupun akademik yang lebih berbobot dalam bidang informatika dan komputer, maka sejak tanggal 8 Juni 1992, berdasarkan Surat Keputusan Direktorat Jendral Pendidikan Tinggi Departemen Pendidikan dan Kebudayaan RI Nomor 262/DIKTI/Kep/1992, AMIK AKAKOM diubah bentuknya menjadi Sekolah Tinggi Manajemen Informatika dan Komputer (STMIK) AKAKOM yang membuka program sarjana dan program diploma.
+Saat ini program sarjana mempunyai program stusi Teknik Informatika dan Sistem Informasi dengan status akreditasi B dan pada program diploma mempunyai 3 program studi yaitu Manajemen Informatika (status Akreditasi B), Teknik Komputer(status Akreditasi B), dan Komputerisasi Akuntansi (status Akreditasi B).
+     </string>
+     <string name="berita1.txt">
+    Dalam rangka menyambut mahasiswa baru 2017, setiap tahun ajaran baru STMIK AKAKOM elakukan kegiatan pengenalan kampus atau yang biasa disebut PESONA AKAKOM 2017. Rangkaian kegiatan pesona akakom 2017 ini dilakukan selama 3 hari dan satu hari pra pesona. Dimulai dari tanggal 6-8 September 2017. Kegiatan ini dibuka oleh Bapak Ir. Sudarmanto.
+         , M.T yang ditandai dengan pemotongan pita dan balon.
+     </string>
+    <string name="berita2.txt">
+        Hari pertama pesona akakom 2017, mahasiswa baru diberikan beberapa materi tentang budaya kota Yogyakarta, wawasan bela Negara, bahaya narkoba dan wawasan tentang IT. Sedangkan dihari kedua peserta pesona akakom 2017 diberikan materi tentang dunia perkuliahan di Akakom dan pengenalan ukm dan hmj yang ada di STMIK AKAKOM. Hari terakhir mahasiswa baru diberikan mini outbond, pameran KM dan pemberian dana sosial ke panti asuhan.
+        Selanjutnya kegiatan api unggun dimalam hari.
+     </string>
+    <string name="berita3.txt">
+       OWASP adalah organisasi non-profit yang berfokus pada keamanan berbasis web. Kegiatan Confrence dan Workshop dilaksanakan di STMIK AKAKOM Yogyakarta selama 2 hari, dimulai dari tanggal 9-10 September 2017.
+        Kegiatan ini diikuti oleh Mahasiswa dan dosen STMIK AKAKOM serta dari kalangan umum.
+     </string>
+    <string name="berita4.txt">
+        Kemudian kegiatan workshop dilakukan pada tanggal 10 September 2017 di Lab Terpadu STMIK AKAKOM.
+        Workshop dengan materi Mastering burp suite pro disampaikan oleh pemateri Rheno Sulistyo (OSCP),
+        sedangkan materi tentang Introduction Digital Forensics disampaikan oleh pemateri Achmad Syafaat.
+        Terakhir  Statefull tracking with ids/ips disampaikan oleh pemateri Zakaria Achmad. Kegiatan ini.
+        Kegiatan ini bertujuan untuk menambahkan pengetahuan baru tentang sistem keamanan.
+     </string>
+     <string name="berita5.txt">
+       Metode pembelajaran yang diberikan setiap sekolah untuk siswa-siswinya memiliki cara yang berbeda-beda. Salah satunya dengan program campus visit atau kunjungan industri. Metode pembelajaran ini merupakan
+         cara yang efektif karena siswa/i secara langsung mendapatkan wawasan dan ilmu pengetahuan.
+     </string>
+     <string name="berita6.txt">
+      SMK Sukawati Gemolong melakukan kunjugan industri ke STMIK Akakom Yogyakarta pada hari Senin, (15/05/2017). Kunjungan ini diikuti oleh 24 siswa-siswi prodi TKJ dan didampingi 4 orang guru pembimbing. Kunjungan industri ini dibuka oleh Bapak Ir. Totok Suprawoto, 
+         M.M., M.T., selaku kabag humas dan admisi.
+     </string>
+    <string name="berita7.txt">
+      Dunia teknologi berkembang dengan cepat, sehingga siswa belum cukup wawasan untuk menanggapi percepatan teknologi tersebut. Setiap sekolah memiliki cara tersendiri untuk memberikan wawasan teknologi kepada siswa-siswi peserta didik,
+        salah satunya dengan program campus visit atau kunjungan industri.
+     </string>
+     <string name="berita8.txt">
+     Selain memberikan pengenalan mengenai model pembelajaran di kampus, juga diberikan wawasan mengenai prospek kerja dan masa depan jaringan komputer.
+         Materi disampaikan oleh Bapak M. Agung Nugroho, S.Kom., M.Kom., selaku dosen STMIK AKAKOM.
+     </string>
+     <string name="info1.txt">
+     Kepuketan 3 bekerja sama dengan Bioenergi training mengadakan seminar dengn topik
+         " Melejitkan potensi diri dan mendongkrak kesuksesan dengan kecerdasan Bioenergi pada :
+     </string>
+    <string name="info2.txt">
+     Tgl         : 10 Maret 2015
+     </string>
+    <string name="info3.txt">
+    Pukul     : 10.00 - 12.00 WIB
+     </string>
+     <string name="info4.txt">
+   Tempat  : R. Presentasi STMIK AKAKOM
+     </string>
+    <string name="info5.txt">
+   Pendaftaran peserta dapat dilakukan di kepuketan III tempat terbatas dan tidak dipungut biaya.
+     </string>
+    <string name="info6.txt">
+      BEDAH BUKU
+     </string>
+    <string name="info7.txt">
+     “Buku Pintar Framework Yii” *
+     </string>
+    <string name="info8.txt">
+     Pada hari      : Selasa, 15 April 2014
+     </string>
+    <string name="info9.txt">
+     Pukul            : 10.00 wib
+     </string>
+     <string name="info10.txt">
+     Tempat        : Ruang Presentasi Lab. Terpadu STMIK AKAKOM YK
+     </string>
+    <string name="info11.txt">
+   Pembahas    : Badiyanto.,S.Kom.,M.Kom.
+     </string>
+
+    <string name="info12.txt">
+   PENGUMUMAN PENGUMPULAN PRPL VERSI LAMA
+     </string>
+
+    <string name="info13.txt">
+   Diberitahukan kepada seluruh mahasiswa bahwa  Setelah seminar PRPL pada tanggal 19 - 21 Januari 2015,
+maka untuk pengumpulan laporan PRPL dikumpulkan paling lambat tanggal 13 Februari 2015.
+Laporan PRPL dikumpulkan ke Dosen Pengampu.
+Demikian Pengumuman ini untuk diperhatikan
+     </string>
+     <string name="info14.txt">
+   03-02-2015
+     </string>
+    <string name="info15.txt">
+    Victor
+     </string>
+     <string name="info16.txt">
+    Sekretariat Jurusan
+     </string>
+    <string name="info17.txt">
+   Diberitahukan kepada seluruh mahasiswa jurusan Teknik Informatika - S1 bahwa dalam pengambilan mata kuliah pada saat KRS TI hari pertama tanggal 25 Februari 2015 hanya dapat dilakukan di Laboratorium Terpadu. Untuk mengurangi berbagai hambatan yang akan terjadi ,
+        Pada tanggal tersebut Portal Akademik sementara tidak dapat diakses dari luar termasuk akses Wi-Fi juga akan dimatikan.
+     </string>
+     <string name="info18.txt">
+  Akses akan dibuka lagi setelah pukul 16.00 WIB. Demikian Informasi ini untuk dapat di perhatikan. Mohon Maaf dan Terima kasih.
+     </string>
+    <string name="info19.txt">
+  ttd
+     </string>
+    <string name="info20.txt">
+        Sijar
+     </string>
+      <string name="profile1.txt">
+       Dalam abad ke-20 ini dunia banyak diwarnai dengan berbagai kemajuan secara menakjubkan yang telah diciptakan oleh umat manusia,
+          baik dibidang ilmu maupun teknologi. Menanggapi kondisi zaman seperti tersebut di atas, pada tanggal 30 Juni 1979 didirikan sebuah yayasan dengan nama Yayasan Pendidikan Widya Bakti, yang bertujuan mengembangkan dan menyebarluaskan informatika dan teknologi komputer di kalangan masyarakat indonesia melalui usaha pendidikan yang sistematis dan ilmiah.
+          Yayasan tersebut mengelola sebuah akademi yang bernama Akademi Aplikasi Komputer, disingkat AKAKOM.
+     </string>
+     <string name="profile2.txt">
+       Terhitung mulai 1 Maret 1983, Akademi Aplikasi Komputer(AKAKOM), diubah menjadi Akademi Komputer dan Informatika AKAKOM.
+         Selanjutnya terhitung mulai tanggal 2 Mei 1985, nama Akademi Komputer dan Informatika AKAKOM diubah
+         dan dibakukan menjadi Akademi Manajemen Informatika dan Komputer(AMIK)AKAKOM.
+     </string>
+ <string name="profile3.txt">
+      Agar lembaga tersebut mampu menghasilkan tenaga-tenaga profesional maupun akademik yang lebih berbobot dalam bidang informatika dan komputer, maka sejak tanggal 8 Juni 1992, berdasarkan Surat Keputusan Direktorat Jendral Pendidikan Tinggi Departemen Pendidikan dan Kebudayaan RI Nomor 262/DIKTI/Kep/1992, AMIK AKAKOM diubah bentuknya menjadi Sekolah Tinggi
+     Manajemen Informatika dan Komputer (STMIK) AKAKOM yang membuka program sarjana dan program diploma.
+     </string>
+    <string name="profile4.txt">
+      Saat ini program sarjana mempunyai program stusi Teknik Informatika dan Sistem Informasi dengan status akreditasi B dan pada program diploma mempunyai 3 program studi yaitu Manajemen Informatika (status Akreditasi B), Teknik Komputer(status Akreditasi B),
+        dan Komputerisasi Akuntansi (status Akreditasi B).
+     </string>
+
+</resources>

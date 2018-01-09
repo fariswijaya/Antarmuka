@@ -1,0 +1,329 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.farisauzan.curiculumvitae.TI">
+
+    <!-- TODO: Update blank fragment layout -->
+
+    <ScrollView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/scrollView"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentStart="true">
+
+        <LinearLayout
+            android:orientation="vertical"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:weightSum="1">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textAppearance="?android:attr/textAppearanceLarge"
+                android:text="Teknik Informatika (S1)"
+                android:layout_gravity="center"
+                android:textStyle="bold"
+                android:textSize="20sp"
+                android:id="@+id/textView"
+                android:layout_marginTop="10dp" />
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textAppearance="?android:attr/textAppearanceLarge"
+                android:text="1.1. Pendahuluan"
+                android:textStyle="bold"
+                android:layout_gravity="center"
+                android:textSize="20sp"
+                android:id="@+id/textVieww"
+                android:layout_marginTop="10dp" />
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textAppearance="?android:attr/textAppearanceMedium"
+                android:text="@string/description.txt"
+                android:id="@+id/textView2"
+                android:layout_marginTop="10dp"
+                android:layout_weight="1.04" />
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textAppearance="?android:attr/textAppearanceLarge"
+                android:text="1.2. Sekilas Program Studi Teknik Informatika"
+                android:layout_gravity="center"
+                android:textStyle="bold"
+                android:textSize="20sp"
+                android:id="@+id/textViewe"
+                android:layout_marginTop="10dp" />
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textAppearance="?android:attr/textAppearanceMedium"
+                android:text="@string/description2.txt"
+                android:id="@+id/textView3"
+                android:layout_marginTop="10dp"
+                android:layout_weight="1.04" />
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textAppearance="?android:attr/textAppearanceLarge"
+                android:text="1.3 Visi, Misi, Tujuan, dan Sasaran serta Strategi Pencapaian"
+                android:layout_gravity="center"
+                android:textStyle="bold"
+                android:textSize="20sp"
+                android:id="@+id/textViewww"
+                android:layout_marginTop="10dp" />
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textAppearance="?android:attr/textAppearanceLarge"
+                android:text="1.3.1 Jelaskan mekanisme penyusunan visi, misi, tujuan dan sasaran program studi, serta pihak-pihak yang dilibatkan."
+                android:layout_gravity="center"
+                android:textStyle="bold"
+                android:textSize="15sp"
+                android:id="@+id/textView13"
+                android:layout_marginTop="10dp" />
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textAppearance="?android:attr/textAppearanceMedium"
+                android:text="@string/description3.txt"
+                android:id="@+id/textView4"
+                android:layout_marginTop="10dp"
+                android:layout_weight="1.04" />
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textAppearance="?android:attr/textAppearanceMedium"
+                android:text="@string/description4.txt"
+                android:id="@+id/textView5"
+                android:layout_marginTop="10dp"
+                android:layout_weight="1.04" />
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textAppearance="?android:attr/textAppearanceMedium"
+                android:text="@string/description5.txt"
+                android:id="@+id/textView6"
+                android:layout_marginTop="10dp"
+                android:layout_weight="1.04" />
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textAppearance="?android:attr/textAppearanceMedium"
+                android:text="@string/description6.txt"
+                android:id="@+id/textView7"
+                android:layout_marginTop="10dp"
+                android:layout_weight="1.04" />
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textAppearance="?android:attr/textAppearanceLarge"
+                android:text="1.3.2 Visi"
+                android:layout_gravity="center"
+                android:textStyle="bold"
+                android:textSize="15sp"
+                android:id="@+id/textView11"
+                android:layout_marginTop="10dp" />
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textAppearance="?android:attr/textAppearanceMedium"
+                android:text="@string/description7.txt"
+                android:id="@+id/textView8"
+                android:layout_marginTop="10dp"
+                android:layout_weight="1.04" />
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textAppearance="?android:attr/textAppearanceLarge"
+                android:text="1.1.3  Misi"
+                android:layout_gravity="center"
+                android:textStyle="bold"
+                android:textSize="15sp"
+                android:id="@+id/textView12"
+                android:layout_marginTop="10dp" />
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textAppearance="?android:attr/textAppearanceMedium"
+                android:text="@string/description8.txt"
+                android:id="@+id/textView9"
+                android:layout_marginTop="10dp"
+                android:layout_weight="1.04" />
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textAppearance="?android:attr/textAppearanceLarge"
+                android:text="1.3.4  Tujuan"
+                android:layout_gravity="center"
+                android:textStyle="bold"
+                android:textSize="15sp"
+                android:id="@+id/textView14"
+                android:layout_marginTop="10dp" />
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textAppearance="?android:attr/textAppearanceMedium"
+                android:text="@string/description9.txt"
+                android:id="@+id/textView10"
+                android:layout_marginTop="10dp"
+                android:layout_weight="1.04" />
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textAppearance="?android:attr/textAppearanceLarge"
+                android:text="1.4. Kompetensi"
+                android:layout_gravity="center"
+                android:textStyle="bold"
+                android:textSize="20sp"
+                android:id="@+id/textViewz"
+                android:layout_marginTop="10dp" />
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textAppearance="?android:attr/textAppearanceLarge"
+                android:text="1.4.1. Kompentesi Umum"
+                android:layout_gravity="center"
+                android:textStyle="bold"
+                android:textSize="15sp"
+                android:id="@+id/textViewa"
+                android:layout_marginTop="10dp" />
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textAppearance="?android:attr/textAppearanceMedium"
+                android:text="@string/description10.txt"
+                android:id="@+id/textView16"
+                android:layout_marginTop="10dp"
+                android:layout_weight="1.04" />
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textAppearance="?android:attr/textAppearanceMedium"
+                android:text="@string/description11.txt"
+                android:id="@+id/textView17"
+                android:layout_marginTop="10dp"
+                android:layout_weight="1.04" />
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textAppearance="?android:attr/textAppearanceMedium"
+                android:text="@string/description12.txt"
+                android:id="@+id/textView18"
+                android:layout_marginTop="10dp"
+                android:layout_weight="1.04" />
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textAppearance="?android:attr/textAppearanceMedium"
+                android:text="@string/description13.txt"
+                android:id="@+id/textView19"
+                android:layout_marginTop="10dp"
+                android:layout_weight="1.04" />
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textAppearance="?android:attr/textAppearanceMedium"
+                android:text="@string/description14.txt"
+                android:id="@+id/textView20"
+                android:layout_marginTop="10dp"
+                android:layout_weight="1.04" />
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textAppearance="?android:attr/textAppearanceLarge"
+                android:text="1.3.2. Kompentensi Khusus"
+                android:layout_gravity="center"
+                android:textStyle="bold"
+                android:textSize="15sp"
+                android:id="@+id/textView15"
+                android:layout_marginTop="10dp" />
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textAppearance="?android:attr/textAppearanceMedium"
+                android:text="@string/description15.txt"
+                android:id="@+id/textView21"
+                android:layout_marginTop="10dp"
+                android:layout_weight="1.04" />
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textAppearance="?android:attr/textAppearanceLarge"
+                android:text="1.3.3. Gradasi Kompetensi"
+                android:layout_gravity="center"
+                android:textStyle="bold"
+                android:textSize="15sp"
+                android:id="@+id/textView22"
+                android:layout_marginTop="10dp" />
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textAppearance="?android:attr/textAppearanceMedium"
+                android:text="@string/description16.txt"
+                android:id="@+id/textView23"
+                android:layout_marginTop="10dp"
+                android:layout_weight="1.04" />
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textAppearance="?android:attr/textAppearanceMedium"
+                android:text="@string/description17.txt"
+                android:id="@+id/textView24"
+                android:layout_marginTop="10dp"
+                android:layout_weight="1.04" />
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textAppearance="?android:attr/textAppearanceMedium"
+                android:text="@string/description18.txt"
+                android:id="@+id/textView25"
+                android:layout_marginTop="10dp"
+                android:layout_weight="1.04" />
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textAppearance="?android:attr/textAppearanceMedium"
+                android:text="@string/description19.txt"
+                android:id="@+id/textView26"
+                android:layout_marginTop="10dp"
+                android:layout_weight="1.04" />
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textAppearance="?android:attr/textAppearanceMedium"
+                android:text="@string/description20.txt"
+                android:id="@+id/textView27"
+                android:layout_marginTop="10dp"
+                android:layout_weight="1.04" />
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textAppearance="?android:attr/textAppearanceMedium"
+                android:text="@string/description21.txt"
+                android:id="@+id/textView28"
+                android:layout_marginTop="10dp"
+                android:layout_weight="1.04" />
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textAppearance="?android:attr/textAppearanceMedium"
+                android:text="@string/description22.txt"
+                android:id="@+id/textView29"
+                android:layout_marginTop="10dp"
+                android:layout_weight="1.04" />
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textAppearance="?android:attr/textAppearanceMedium"
+                android:text="@string/description23.txt"
+                android:id="@+id/textView30"
+                android:layout_marginTop="10dp"
+                android:layout_weight="1.04" />
+        </LinearLayout>
+    </ScrollView>
+
+</RelativeLayout>

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/beranda"
+            android:icon="@drawable/beranda"
+            android:title="Beranda" />
+        <item
+            android:id="@+id/profil"
+            android:icon="@drawable/ic_profil"
+            android:title="Profil Akakom" />
+
+        <item
+            android:id="@+id/riwayatpendidikan"
+            android:icon="@drawable/ic_school_black_24dp"
+            android:title="Visi Misi" />
+        <item
+            android:id="@+id/nav_gallery"
+            android:icon="@drawable/information"
+            android:title="Informasi Program Studi" />
+        <item
+            android:id="@+id/nav_news"
+            android:icon="@drawable/news"
+            android:title="Berita" />
+        <item
+            android:id="@+id/nav_arsip"
+            android:icon="@drawable/ic_arsip"
+            android:title="Arsip Umum" />
+        <item
+            android:id="@+id/nav_tautan"
+            android:icon="@drawable/ic_tautandp"
+            android:title="Tautan" />
+
+    </group>
+
+    <item android:title="Menu Lainnya">
+        <menu>
+            <item
+                android:id="@+id/nav_share"
+                android:icon="@drawable/ic_feedbackdp"
+                android:title="Feedback" />
+            <item
+                android:id="@+id/nav_kontak"
+                android:icon="@drawable/ic_kontakkdp"
+                android:title="Kontak" />
+            <item
+                android:id="@+id/nav_instagram"
+                android:icon="@drawable/ic_instag"
+                android:title="Instagram" />
+            <item
+                android:id="@+id/nav_facebook"
+                android:icon="@drawable/ic_facebook"
+                android:title="Facebook" />
+            <item
+                android:id="@+id/nav_twitter"
+                android:icon="@drawable/ic_twitter"
+                android:title="Twitter" />
+        </menu>
+    </item>
+
+</menu>
